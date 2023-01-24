@@ -49,7 +49,7 @@ const footer = () => {
         </a>
       </div>
       <div className="footer__copyright">
-        <small> © Copyright 2022 Vicram. All rights reserved.</small>
+        <small> © Copyright 2023 Vicram. All rights reserved.</small>
       </div>
     </footer>
   );
